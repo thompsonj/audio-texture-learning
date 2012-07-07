@@ -5,7 +5,7 @@ texture-learning.py
 
 
 Created by Jessica Thompson on 2012-03-03 for MUS 105 - Musical Systems
-Updated April 21, 2012
+Additions made at Rethink Music Hackers Weekend April 21-22, 2012
 
 sample usage:
     python texture_learning.py waterboiling_800.wav 60 3 .4 1 ifft2
